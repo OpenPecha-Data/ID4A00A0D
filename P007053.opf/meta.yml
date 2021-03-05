@@ -1,15 +1,16 @@
-id: opecha:P007053
+id: P007053
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD152299
   title: སྒྲུང་རྒྱུད་དང་གླིང་སྒྲུང་རིག་པའི་རྣམ་བཤད།
-  volume:
+  author: ''
+  volumes:
     60a114de8f574481872a8903dabbe4b6:
       image_group_id: I2PD20390
       title: Volume 1 of sgrung rgyud dang gling sgrung rig pa'i rnam bshad/
       volume_number: 1
       total_pages: 808
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྒྲུང་རྒྱུད་དང་གླིང་སྒྲུང་རིག་པའི་རྣམ་བཤད།
   author: ''
